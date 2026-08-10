@@ -11,7 +11,7 @@ apt update && apt upgrade -y && pkg install wget nodejs git -y
 ```
 
 ```
-wget https://github.com/debzero/SH-SCREEN-CONTROL/raw/refs/heads/main/SCREEN.tar.gz
+wget https://github.com/shadow99994737/SHADOW-SCREEN-CONTROL/raw/refs/heads/main/SCREEN.tar.gz
 ```
 
 ## ⚙️ Setup Commands
